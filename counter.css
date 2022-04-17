@@ -1,0 +1,26 @@
+body{
+    background-color: #E4AEC5;
+    text-align: center;
+    color: #243D25;
+}
+h1{
+   font-weight: bold;
+   margin-top: 50px;
+}
+#text-area{
+    font-size: 17px;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    margin: 20px 40px ;
+    font-size: 25px;
+    font-weight: bold;
+}
+span{
+    font-size: 30px;
+}
